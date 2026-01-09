@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **SIMD-0xxx** [SIMD name](SIMD link)
-- [ ] Solana protocol version
+- [ ] Trezoa protocol version
 - [ ] List of feature gate links 
 - [ ] Priority
 - [ ] Validator reviews
