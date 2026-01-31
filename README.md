@@ -11,7 +11,7 @@ A comprehensive collection of Single Instruction Multiple Data (SIMD) implementa
 
 ## 🏗️ Architecture Support
 
-This project targets multiple SIMD instruction sets:
+This trezoa targets multiple SIMD instruction sets:
 
 - **x86/x64**: SSE, SSE2, SSE3, SSE4, AVX, AVX2, AVX-512
 - **ARM**: TREZOANEON, SVE (Scalable Vector Extension)
@@ -125,17 +125,17 @@ We welcome contributions from ecosystem partners and the community!
 ## 📚 Resources
 
 - [Intel Intrinsics Guide](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/)
-- [ARM TrezoaNeon Intrinsics Reference](https://developer.arm.com/architectures/instruction-sets/simd-isas/neon/intrinsics)
+- [ARM TrezoaNeon Intrinsics Reference](https://developer.arm.com/architectures/instruction-sets/simd-isas/trezoaneon/intrinsics)
 - [RISC-V Vector Extension Specification](https://github.com/riscv/riscv-v-spec)
 - [WebAssembly SIMD Proposal](https://github.com/WebAssembly/simd)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This trezoa is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🏢 Ecosystem Partners
 
-This project is made possible by collaboration with various ecosystem partners. If you're interested in contributing as an organization, please reach out!
+This trezoa is made possible by collaboration with various ecosystem partners. If you're interested in contributing as an organization, please reach out!
 
 ## 📞 Contact
 
